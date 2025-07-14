@@ -1,0 +1,11 @@
+# Ignore node_modules folder
+node_modules/
+package-lock.json
+# Ignore environment variable files
+.env
+
+
+# vps  hostname = srv822107.hstgr.cloud
+# vps password = #7M0q@6LcqQ#
+
+# ssh key = ssh root@69.62.81.76
